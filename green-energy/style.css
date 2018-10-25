@@ -22,15 +22,11 @@
     font-weight: 600;
     font-size: 18px;
     padding: 18px;
-    border-bottom: #3e4e6d solid 1px;
+    border-bottom: green solid 1px;
 }
 
 .advert {
     border-radius: 4px;
-}
-
-.logo {
-    background: url(https://aaroneus.github.io/demo.aaroneus.io/royal-bank-of-bath/logo.png) no-repeat;
 }
 
 @media only screen and (max-width: 600px) {
